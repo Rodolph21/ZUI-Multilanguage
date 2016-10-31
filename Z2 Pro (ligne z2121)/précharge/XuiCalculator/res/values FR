@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="error_nan">Pas de résultat</string>
+    <string name="error_syntax">Erreur</string>
+    <string name="desc_const_e">Le nombre d’Euler</string>
+    <string name="desc_const_pi">PI</string>
+    <string name="desc_dec_point">point</string>
+    <string name="desc_lparen">Parenthèse gauche</string>
+    <string name="desc_rparen">Parenthèse droite</string>
+    <string name="desc_fun_cos">Cosinus</string>
+    <string name="desc_fun_ln">Le logarithme népérien</string>
+    <string name="desc_fun_log">Logarithmique</string>
+    <string name="desc_fun_log_x_y">Le logarithme de x à y à la fin de</string>
+    <string name="desc_fun_sin">Sinus</string>
+    <string name="desc_fun_tan">Tangeante</string>
+    <string name="desc_op_add">Ajouter</string>
+    <string name="desc_op_div">Diviser</string>
+    <string name="desc_op_fact">Fractionner</string>
+    <string name="desc_op_mul">Prendre</string>
+    <string name="desc_op_sub">Réduction</string>
+    <string name="desc_clr">Remettre à zéro</string>
+    <string name="desc_del">Supprimer</string>
+    <string name="desc_eq">Est égal à</string>
+    <string name="desc_op_positive_negative">Positifs et négatifs</string>
+    <string name="desc_op_percent">Signe de pourcentage</string>
+    <string name="desc_op_ee">EE</string>
+    <string name="desc_op_pow">Puissance</string>
+    <string name="desc_op_square">Carrés</string>
+    <string name="desc_op_cube">Cube</string>
+    <string name="desc_op_reciprocal">Compte à rebours</string>
+    <string name="desc_op_sqrt">Racine carrée</string>
+    <string name="desc_op_cbrt">Racine cubique</string>
+    <string name="desc_op_pow_root">yième</string>
+    <string name="switch_on_standard">Norme</string>
+    <string name="switch_off_science">Science</string>
+    <string name="date_20160207">Réunion de famille • nouvel an Eve</string>
+    <string name="date_20160208">Bonne chance dans le premier singe de • mois</string>
+    <string name="date_20160209">• Lunaire bonne chance</string>
+    <string name="date_20160210">Le troisième jour du premier mois • La sécurité</string>
+    <string name="date_20160211">Le quatrième mois • L'esprit harmonieux</string>
+    <string name="date_20160212">Le cinquième mois • Les tambours</string>
+    <string name="date_20160213">Le sixième mois• Décor à l’ancienne</string>
+    <string name="date_20160214">Arrêter la lecture • Le travail!</string>
+</resources>
